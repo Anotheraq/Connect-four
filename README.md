@@ -14,7 +14,7 @@ są żółte (tkinter, Canvas http://stackoverflow.com/a/12254442).
 - Reprezentacja reguł gry ma być realizowana poprzez hierarchię klas. Klasa bazowa definiuje między innymi funkcję wirtualną ktoWygral() nadpisywaną w klasach pochodnych.
 - Realizowane powinny być przynajmniej dwa zestawy reguł, jako dwie klasy pochodne.
 
-### Opis zadania 
+### Opis testów 
 
 1. Wykonanie po dwa mchy przez każdego z graczy - monety spadają na dół pola gry lub zatrzymują się na już wrzuconym żetonie.
 2. Ułożenie pionowej linii monet przez jednego gracza - oczekiwana informacja o jego wygranej.
